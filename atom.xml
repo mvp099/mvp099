@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>未来已来|共享未来</title>
   
-  
+  <subtitle>喜欢自己</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://mysite.com/"/>
   <updated>2018-01-23T06:31:18.890Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://mysite.com/</id>
   
   <author>
-    <name>Tao tao</name>
+    <name>淘淘の后院</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2018/03/23/%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    <id>http://yoursite.com/2018/03/23/网络面试题/</id>
+    <link href="http://mysite.com/2018/03/23/%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <id>http://mysite.com/2018/03/23/网络面试题/</id>
     <published>2018-03-22T17:20:02.840Z</published>
     <updated>2018-01-23T06:31:18.890Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>first</title>
-    <link href="http://yoursite.com/2018/03/23/first/"/>
-    <id>http://yoursite.com/2018/03/23/first/</id>
+    <link href="http://mysite.com/2018/03/23/first/"/>
+    <id>http://mysite.com/2018/03/23/first/</id>
     <published>2018-03-22T16:49:15.000Z</published>
     <updated>2018-03-22T17:20:43.306Z</updated>
     
@@ -54,8 +54,8 @@
   
   <entry>
     <title>“我的博客”</title>
-    <link href="http://yoursite.com/2018/03/22/%E2%80%9C%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E2%80%9D/"/>
-    <id>http://yoursite.com/2018/03/22/“我的博客”/</id>
+    <link href="http://mysite.com/2018/03/22/%E2%80%9C%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E2%80%9D/"/>
+    <id>http://mysite.com/2018/03/22/“我的博客”/</id>
     <published>2018-03-22T15:10:18.000Z</published>
     <updated>2018-03-22T17:19:22.060Z</updated>
     
@@ -76,8 +76,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/03/22/hello-world/"/>
-    <id>http://yoursite.com/2018/03/22/hello-world/</id>
+    <link href="http://mysite.com/2018/03/22/hello-world/"/>
+    <id>http://mysite.com/2018/03/22/hello-world/</id>
     <published>2018-03-22T10:24:48.853Z</published>
     <updated>2018-03-22T10:24:48.854Z</updated>
     
