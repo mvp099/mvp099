@@ -2050,7 +2050,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f208ff;
+  background: #ffb3da;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3214,7 +3214,7 @@ h2.about-title {
   margin-top: 0px;
 }
 .site-meta {
-  margin-left: -210px;
+  margin-left: -220px;
   background-image: linear-gradient(90deg, #f79533 0%, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
 }
 .brand {
