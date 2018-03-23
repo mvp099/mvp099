@@ -2050,7 +2050,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #672fff;
+  background: #81f6ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3214,6 +3214,7 @@ h2.about-title {
   margin-top: 0px;
 }
 .site-meta {
+  margin-left: -100px;
   background-image: linear-gradient(90deg, #f79533 0%, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
 }
 .brand {
@@ -3240,11 +3241,11 @@ h2.about-title {
   border-bottom-color: #a166ab;
 }
 .menu .menu-item a {
-  font-size: 10px;
-  line-height: 1;
+  font-size: 14px;
+  line-height: 7;
 }
 .menu .menu-item {
-  margin-top: 10;
+  margin-top: 20;
 }
 .menu .menu-item a:hover {
   border-bottom-color: rgba(161,102,171,0);
