@@ -2050,7 +2050,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff5c4d;
+  background: #672fff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3240,11 +3240,11 @@ h2.about-title {
   border-bottom-color: #a166ab;
 }
 .menu .menu-item a {
-  font-size: 14px;
-  line-height: 7;
+  font-size: 10px;
+  line-height: 1;
 }
 .menu .menu-item {
-  margin-top: 20;
+  margin-top: 10;
 }
 .menu .menu-item a:hover {
   border-bottom-color: rgba(161,102,171,0);
